@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f5052659c24c54fa9e514b57",
+  "owner": "fkugcv",
+  "repo": "page-b33d712b26602aca8af93e2c",
+  "title": "blenet",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b33d712b26602aca8af93e2c",
+      "a": "blenet",
+      "b": "2027官方最新地址导航",
+      "entity": "blenet",
+      "brand": "blenet",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2c29b8ed73941406dcc71b5e5930a993dccc9b5d901c4798314e230aecb6668d",
+      "content": {
+        "primary_entity": "blenet",
+        "keyword1": "blenet",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，blenet 为跨境办公、流媒体访问与游戏联机提供多档海外加速方案，基础版、旗舰版与团队版按流量和在线设备数区分，可按月或按年订阅，年付方案在月付价格基础上更划算。",
+          "AI_HERO_SUBTITLE": "blenet 海外加速器套餐与订阅",
+          "AI_HERO_INTRO": "blenet 海外加速器提供基础版、旗舰版与团队版三种订阅方案，分别对应 100GB、300GB 与 1000GB 月度流量，并支持 3 台、5 台与 20 台设备同时在线，方便按使用规模灵活选择。",
+          "AI_VISUAL_TITLE": "blenet 加速方案一览",
+          "AI_HIGHLIGHT_1": "基础版 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 游戏专线",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备在线",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURES_INTRO": "按流量需求、设备数量与使用场景挑选订阅方案。",
+          "AI_FEATURE_TITLE_1": "按流量档位选择",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，可按个人或团队用量挑选。",
+          "AI_FEATURE_TITLE_2": "按设备数量匹配",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，覆盖手机、电脑与平板同时使用。",
+          "AI_FEATURE_TITLE_3": "按周期决定付费",
+          "AI_FEATURE_TEXT_3": "月付灵活起步，年付以 ¥150、¥350、¥850 提供对应方案的年度订阅。",
+          "AI_CLIENTS_TITLE": "客户端准备",
+          "AI_CLIENTS_INTRO": "根据所用设备选择对应客户端，并按订阅信息完成导入。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别 ¥150、¥350、¥850，按流量与设备数对比选择。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从选择方案到客户端配置，三步完成订阅接入。",
+          "AI_STEP_TITLE_1": "选择方案",
+          "AI_STEP_TEXT_1": "根据月度流量、同时在线设备数量和是否需要游戏专线，在基础版、旗舰版与团队版中确定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用系统与客户端类型，核对订阅对应的设备上限与流量额度是否够用。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "依照客户端文档添加订阅信息，完成节点选择后即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐",
+          "AI_CLOSING_TEXT": "根据流量与设备需求选定 blenet 方案，按客户端文档完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版适合一到两人日常浏览与基础流媒体，每月 100GB 流量与 3 台设备可覆盖手机加电脑的轻量使用。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备，含 IPLC 线路优化，适合多设备常在线、对延迟敏感的游戏和视频用户。",
+          "AI_FAQ_ANSWER_3": "可以。订阅链接通常在控制面板内生成，复制后按所选客户端文档粘贴导入即可，无需手动填写节点。",
+          "AI_FAQ_ANSWER_4": "月付灵活，年付更划算。基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，长期使用推荐年付。",
+          "AI_FAQ_ANSWER_5": "更换设备时先在新设备导入同一订阅并断开旧设备，设备在线数按套餐上限计算，超出需升级套餐。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版的设备数够多人用吗？",
+          "AI_FAQ_QUESTION_3": "订阅链接可以自己导入客户端吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选更合适？",
+          "AI_FAQ_QUESTION_5": "换设备时在线数量怎么算？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yjcswx.cn",
+    "host": "yjcswx.cn"
+  },
+  "file_hashes": {
+    "index.html": "d4c54e6a3f2e9528ebf1636a11760dcc33bb3cd178b02b54fe0c97c3292d77e6",
+    "sitemap.xml": "bd2fcfdec300b6e7e03b6a141abec760184ea851c094d6fc4096b3eb49746ac4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "145a104ced601e94a9d7ce3605a55c5c4fa36c8b7811e2b57b8c8e00ec593b30",
+    "robots.txt": "841c490a8881ddec835daa6ded27a027bc387ea663fddbb8148d4ab79e189130",
+    "92a8b245f6989fb27c62046890255121.txt": "b36f6a6d7cbbfcd484504f529d421e42b2e1a4122221cc21762cb05fef4ea557"
+  },
+  "revision": "9b29595eb6a84b48b0cd05bfac68f49e7220d3cc1b39bf789854244b3497cf0f"
+}
